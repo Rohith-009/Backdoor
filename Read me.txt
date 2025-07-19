@@ -1,0 +1,7 @@
+Backdoor project is divided into 2 programs i.e backdoor.py and server.py 
+
+server.py should be executed in attacker's machine
+backdoor.py should be executed in victim's machine
+
+Note :
+      Correct IP address is mandatory to establish a connection
